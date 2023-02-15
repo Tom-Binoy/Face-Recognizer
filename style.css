@@ -1,0 +1,20 @@
+body{
+    background: linear-gradient( rgb(86, 11, 91),rgb(27, 93, 128) );
+}
+
+.objects{
+    color:rgb(10, 226, 14) ;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+.d{
+    display: inline-block;
+    border: 5px ridge grey;
+}
+#snap{
+    margin-left: 50px;
+}
+.b{
+    color: aliceblue;
+}
